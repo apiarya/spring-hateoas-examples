@@ -65,7 +65,7 @@
 		<module>affordances</module>
 		<module>simplified</module>
 		<module>spring-hateoas-and-spring-data-rest</module>
-	</module>
+	</modules>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
