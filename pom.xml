@@ -64,8 +64,8 @@
 		<module>hypermedia</module>
 		<module>affordances</module>
 		<module>simplified</module>
-		<module>spring-hateoas-and-spring-data-rest</module>
-		<sonar.organization>apiarya</sonar.organization>
+		<module>spring-hateoas-and-spring-data-rest
+	</module>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
