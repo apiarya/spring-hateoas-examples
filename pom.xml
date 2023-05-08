@@ -65,7 +65,7 @@
 		<module>affordances</module>
 		<module>simplified</module>
 		<module>spring-hateoas-and-spring-data-rest</module>
-	</modules>
+		<sonar.organization>apiarya</sonar.organization>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -73,6 +73,9 @@
 		<java.version>1.8</java.version>
 
 		<evo.version>1.2.2</evo.version>
+
+		<sonar.organization>apiarya</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
 	<profiles>
